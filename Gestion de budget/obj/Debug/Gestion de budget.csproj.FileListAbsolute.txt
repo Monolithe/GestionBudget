@@ -1,0 +1,32 @@
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\bin\Debug\Gestion de budget.exe.config
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\bin\Debug\budget1.mdb
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\bin\Debug\Gestion de budget.exe
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\bin\Debug\Gestion de budget.pdb
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.csprojResolveAssemblyReference.cache
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormGestionBudget.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.Properties.Resources.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.csproj.GenerateResource.Cache
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.exe
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.pdb
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormAjoutPersonne.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormAjoutPoste.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormAjoutType.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormCalendrierPrevisionnel.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormModifierPostes.resources
+C:\Users\Tetra\Documents\A21\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormModifierTransaction.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\bin\Debug\Gestion de budget.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.exe
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.pdb
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\bin\Debug\budget1.mdb
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\bin\Debug\Gestion de budget.exe
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\bin\Debug\Gestion de budget.pdb
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.csprojResolveAssemblyReference.cache
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormAjoutPoste.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormCalendrierPrevisionnel.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormGestionBudget.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormAjoutPersonne.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormAjoutType.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormModifierPostes.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.FormModifierTransaction.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion_de_budget.Properties.Resources.resources
+\\vfiler-ad-etu.ad.unistra.fr\dhordain\Documents\Visual Studio 2015\Projects\Gestion de budget\Gestion de budget\obj\Debug\Gestion de budget.csproj.GenerateResource.Cache
